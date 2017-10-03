@@ -1,0 +1,14 @@
+---
+title: New test post
+author: Jeremy Boyd
+date: '2017-09-17'
+slug: new-test-post
+categories:
+  - R
+tags:
+  - regression
+---
+
+# This is a new test post
+
+Blah blah blah
