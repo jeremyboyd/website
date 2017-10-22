@@ -12,9 +12,7 @@ googleAnalytics = ""
   # Use custom.css for your custom styling
   style = "blue"
   description = "Describe your website"
-  copyright = paste0("&copy;",
-                     substr(Sys.Date(), start = 1, stop = 4),
-                     "Jeremy Boyd")
+  copyright = "&copy;2017 Jeremy Boyd"
   sidebarAbout = [
     "I use social science and statistical modeling to design people programs."
   ]
@@ -44,6 +42,8 @@ googleAnalytics = ""
   [[params.navlinks]]
   name = "Contact"
   url = "contact/"
+ 
+  ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
   [params.social]
   facebook      = "full page or profile url in facebook"
@@ -53,4 +53,4 @@ googleAnalytics = ""
   linkedin      = "full profile url in linkedin"
   stackoverflow = "full profile url in stackoverflow"
   instagram     = "full profile url in instagram"
-  github        = "full profile url in github"
+  github        = "https://github.com/jeremyboyd"
