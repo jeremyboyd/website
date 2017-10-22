@@ -12,7 +12,9 @@ googleAnalytics = ""
   # Use custom.css for your custom styling
   style = "blue"
   description = "Describe your website"
-  copyright = "&copy;2017 Jeremy Boyd"
+  copyright = paste0("&copy;",
+                     substr(Sys.Date(), start = 1, stop = 4),
+                     "Jeremy Boyd")
   sidebarAbout = [
     "I use social science and statistical modeling to design people programs."
   ]
