@@ -46,7 +46,7 @@ googleAnalytics = ""
   ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
   [params.social]
-  email         = "kenyonboyd@gmail.com"
   linkedin      = "https://www.linkedin.com/in/jeremy-boyd-7b505150/"
   twitter       = "https://twitter.com/jeremykboyd"
+  email         = "kenyonboyd@gmail.com"
   github        = "https://github.com/jeremyboyd"
