@@ -46,11 +46,7 @@ googleAnalytics = ""
   ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
   [params.social]
-  facebook      = "full page or profile url in facebook"
-  googleplus    = "full profile url in googleplus"
   email         = "kenyonboyd@gmail.com"
-  twitter       = "full profile url in twitter"
-  linkedin      = "full profile url in linkedin"
-  stackoverflow = "full profile url in stackoverflow"
-  instagram     = "full profile url in instagram"
+  linkedin      = "https://www.linkedin.com/in/jeremy-boyd-7b505150/"
+  twitter       = "https://twitter.com/jeremykboyd"
   github        = "https://github.com/jeremyboyd"
